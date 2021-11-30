@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="200" height="100" viewBox="-100.0 -50.0 200 100">
+<defs>
+</defs>
+<path d="M75,12 L-60,12" fill="#eeee00" stroke="black" stroke-width="0.2" />
+<path d="M-60,12 L-60,-19" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-54.0,-25.0 A6,6,0,0,0,-60.0,-19.0" fill="none" stroke="black" stroke-width="0.2" />
+<path d="M-54,-25 L-50,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-50,-25 L-20,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="-39" y="-30" font-size="5" fill="black" dy="0em">1"</text>
+<rect x="-3.8" y="16" width="0.2" height="16" transform="rotate(-225)" stroke-width="0.2" />
+<path d="M-8.885543607454105,-14.094848178916322 L75,-14.094848178916322" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-17,-25 L-0.77108721490821,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-60,-27 L-60,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-8.885543607454105,-27 L-8.885543607454105,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="1" y="-17" font-size="5" dy="0em">1/4"</text>
+<text x="-25" y="-16" font-size="5" dy="0em">45°</text>
+</svg>

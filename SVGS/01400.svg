@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="200" height="100" viewBox="-100.0 -50.0 200 100">
+<defs>
+</defs>
+<path d="M75,12 L-60,12" fill="#eeee00" stroke="black" stroke-width="0.2" />
+<path d="M-60,12 L-60,-19" fill="#000000" stroke="black" stroke-width="0.2" />
+<rect x="-56" y="20.4" width="0.2" height="8.6" transform="rotate(45)" />
+<path d="M-54,-25 L-50,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-50,-25 L-20,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="-39" y="-30" font-size="5" fill="black" dy="0em">1"</text>
+<path d="M-20,-25 L-20,-17" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-20,-17 L75,-17" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-60,-27 L-60,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-20,-27 L-20,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="-5" y="-20" font-size="5" dy="0em">1/8"</text>
+</svg>

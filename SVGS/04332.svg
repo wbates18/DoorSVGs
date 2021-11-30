@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="200" height="100" viewBox="-100.0 -50.0 200 100">
+<defs>
+</defs>
+<path d="M75,12 L-82.5,12" fill="#eeee00" stroke="black" stroke-width="0.2" />
+<path d="M-82.5,12 L-82.5,-17" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-74.5,-25.0 A8,8,0,0,0,-82.5,-17.0" fill="none" stroke="black" stroke-width="0.2" />
+<path d="M-74.5,-25 L-72.5,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-72.5,-25 L-20,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="-45" y="-30" font-size="5" fill="black" dy="0em">2.5"</text>
+<path d="M-20,-25 L-20,-21.0" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-20,-21.0 L-16.0,-21.0" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-16.0,-21.0 L-16.0,-17.0" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-16.0,-17.0 L75,-17.0" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-19,-25 L-13.0,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-82.5,-27 L-82.5,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-16.0,-27 L-16.0,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="-6" y="-18" font-size="5" dy="0em">1/4"</text>
+</svg>

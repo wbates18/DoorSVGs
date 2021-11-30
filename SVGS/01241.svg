@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="200" height="100" viewBox="-100.0 -50.0 200 100">
+<defs>
+</defs>
+<path d="M75,12 L-87,12" fill="#eeee00" stroke="black" stroke-width="0.2" />
+<path d="M-87,12 L-87,-19" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-81.0,-25.0 A6,6,0,0,0,-87.0,-19.0" fill="none" stroke="black" stroke-width="0.2" />
+<path d="M-81,-25 L-77,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-77,-25 L-20,-25" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="-45" y="-30" font-size="5" fill="black" dy="0em">3"</text>
+<path d="M-20,-25 L-20,-15" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-20,-15 L75,-15" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-87,-27 L-87,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<path d="M-20,-27 L-20,-37" fill="#000000" stroke="black" stroke-width="0.2" />
+<text x="-5" y="-18" font-size="5" dy="0em">3/16"</text>
+</svg>
